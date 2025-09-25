@@ -3,7 +3,8 @@
 A simple, responsive weather application built with **HTML, CSS, and JavaScript**.  
 Fetches real-time weather data from the **OpenWeatherMap API** and displays it in a clean UI.  
 
-🔗 **[Live Preview](https://lokeshlikhar.github.io/Weather-API/)**  
+## 🔗 Live Preview
+https://lokeshlikhar.github.io/Weather-API/
 
 ---
 
@@ -32,5 +33,6 @@ Fetches real-time weather data from the **OpenWeatherMap API** and displays it i
 - 🌐 Consuming and integrating a third-party REST API  
 - 📝 Handling API responses and errors gracefully  
 - 🎨 Designing a simple, intuitive UI with responsive design principles  
-- 🔄 Updating UI dynamically with JavaScript  
 - 🧼 Maintaining clean and organized project structure  
+
+## Thank You ✨
